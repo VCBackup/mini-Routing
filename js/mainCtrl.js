@@ -1,0 +1,4 @@
+miniRouting.controller('mainCtrl', function(){
+
+
+});

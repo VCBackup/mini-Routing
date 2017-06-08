@@ -1,0 +1,4 @@
+miniRouting.controller('settingsCtrl', function(){
+
+
+});

@@ -1,0 +1,4 @@
+miniRouting.service('mainService', function(){
+
+
+});
